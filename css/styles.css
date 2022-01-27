@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  width: 210mm;
+  height: 297mm;
+}
+
+img {
+  position: absolute;
+  border-radius: 50%;
+  left: 85mm;
+  top: 40mm;
+}
+
+hr{
+  margin-top: 1mm;
+  color:#eff0f2;
+  width: 95%;
+}
+
+ul{
+  margin: 2mm;
+  margin-left: 0;
+}
+
+li{
+  margin-bottom: 3mm;
+}
+
+.header{
+  text-align: center;
+  background-color: #ced7df;
+  height: 50mm;
+  margin-bottom: 20mm;
+  font-size: 16pt;
+}
+
+.titolo{
+  margin-bottom: 0;
+  margin-left: 2mm;
+  text-align: left;
+  font-size: 16pt;
+}
+
+.testo{
+  color: rgb(115,115,115);
+  text-align:justify;
+  font-size: 14pt;
+}
+
+.row{
+  background-color: red;
+}
+
+.colomn {
+  float:left;
+  background-color: white;
+  margin-left: 5mm;
+  margin-right: 0mm;
+}
+
+.left {
+  width: 35%;
+}
+
+.right{
+  width: 60%;
+}
